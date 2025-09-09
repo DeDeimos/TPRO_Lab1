@@ -1,1 +1,1 @@
-file-for-branch2 for revert
+file-for-branch2
